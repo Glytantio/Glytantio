@@ -1,5 +1,6 @@
-## Hi there 👋
+## ⚡My Profile⚡
 
+I'm Glytantio and I am currently learning how to use Github for my upcoming job being a technical writer. I'm willing to learn and looking for help with this type of profession.
 <!--
 **Glytantio/Glytantio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
