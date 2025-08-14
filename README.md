@@ -1,6 +1,12 @@
 ## ⚡My Profile⚡
 
-I'm Glytantio and I am currently learning how to use Github for my upcoming job being a technical writer. I'm willing to learn and looking for help with this type of profession.
+I'm Glytantio
+
+🌱 I’m currently learning and I am currently learning how to use Github and at the same time, gain experience on software testing tools such as Selenium. Furthermore, gaining more knowledge in programming languages specifically Java and Python.
+
+🤔 I’m looking for help with these tools as they can help me start with my upcoming job as a QA tester. 
+
+🤞 Hoping soon that I will land a job in this field that I'm passionate about!
 <!--
 **Glytantio/Glytantio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
